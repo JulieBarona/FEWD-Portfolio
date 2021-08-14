@@ -1,4 +1,3 @@
 # FEWD-Portfolio
+This is my first go at a portfolio page. This can be found here: https://inspiring-elion-710ab4.netlify.app/
 
-This is my portfolio and webpage can be found at www.juliebarona.com 
-This is built with HTML. CSS, Bootstrap and Javascipt
